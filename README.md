@@ -12,7 +12,7 @@
 
 - 💛 Indefinite JavaScript enjoyer
 
-- 🎯 Currently working on something interesting, improving my skills
+- 👨‍💻 All of my projects are available at [https://github.com/myselfsandip?tab=repositories](https://github.com/myselfsandip?tab=repositories)
 
 - 📫 How to reach me **sandipsingha714@gmail.com**
 
