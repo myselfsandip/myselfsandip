@@ -8,7 +8,11 @@
 
 - 🌱 I’m currently learning **Front-end development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/myselfsandip?tab=repositories](https://github.com/myselfsandip?tab=repositories)
+- 👀 I’m interested in Full-stack web Development.
+
+- 💛 Indefinite JavaScript enjoyer
+
+- 🎯 Currently working on something interesting, improving my skills
 
 - 📫 How to reach me **sandipsingha714@gmail.com**
 
