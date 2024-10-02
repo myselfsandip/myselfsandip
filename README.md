@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfsandip&label=Profile%20views&color=0e75b6&style=flat" alt="myselfsandip" /> </p>
+<img align="right" alt="coding" width="400" src="https://www.minjunkim.ca/images/lofiboy.gif">
 
 - 🌱 I’m currently learning **MERN Stack development**
 
