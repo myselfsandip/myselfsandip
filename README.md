@@ -14,9 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm specializing in **MERN Stack Development**
-- 💼 All of my projects are available at [my GitHub repositories](https://github.com/myselfsandip?tab=repositories)
+- 💼 Full Stack Developer proficient in MERN Stack and PHP
+- 🌱 Currently a Backend Developer Intern at [Indomitech Group](https://indomitechgroup.com/)
+- 🔭 Actively working on personal projects and expanding my skill set
+- ☁️ Currently learning AWS and cloud technologies
 - 📫 Reach out to me at **sandipsingha714@gmail.com**
 
 ### 🤝 Connect with me
@@ -70,7 +71,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsandip&theme=radical" alt="github streak" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=myselfsandip&theme=radical" alt="GitHub Streak" />
+    </a>
 </p>
 
 ---
