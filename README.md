@@ -24,7 +24,7 @@
 
 <p align="left">
     <a href="https://x.com/sandipsingha07" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/myself_sandip_?logo=twitter&style=for-the-badge" alt="Twitter" />
+        <img src="https://img.shields.io/twitter/follow/sandipsingha07?logo=twitter&style=for-the-badge" alt="Twitter" />
     </a>
     <a href="https://linkedin.com/in/myself-sandip" target="_blank">
         <img src="https://img.shields.io/badge/-myself--sandip-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
