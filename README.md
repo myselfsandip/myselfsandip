@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=myselfsandip&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=myselfsandip&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> -->
 </p>
 
 <div align="center">
