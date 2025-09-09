@@ -18,7 +18,7 @@
 - 🌱 Fullstack Developer at [Indomitech Group](https://indomitechgroup.com/)
 - 🔭 Actively working on personal projects and expanding my skill set
 - ☁️ Currently learning AWS and cloud technologies
-- 📫 Reach out to me at **sandipsingha714@gmail.com**
+- 📫 [Portfolio](https://portfolio-three-rose-65.vercel.app/)
 
 ### 🤝 Connect with me
 
