@@ -18,7 +18,7 @@
 - 🌱 Fullstack Developer at [Indomitech Group](https://indomitechgroup.com/)
 - 🔭 Actively working on personal projects and expanding my skill set
 - ☁️ Currently learning AWS and cloud technologies
-- 📫 [Portfolio](https://portfolio-three-rose-65.vercel.app/)
+- 📫 [Portfolio](https://www.myselfsandip.me)
 
 ### 🤝 Connect with me
 
