@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Full Stack Developer proficient in MERN Stack and PHP
-- 🌱 Fullstack Developer at [Indomitech Group](https://indomitechgroup.com/)
+- 🌱 Fullstack Developer at [Indomitech Global Pvt Ltd](https://indomitechglobal.com/)
 - 🔭 Actively working on personal projects and expanding my skill set
 - ☁️ Currently learning AWS and cloud technologies
 - 📫 [Portfolio](https://www.myselfsandip.me)
